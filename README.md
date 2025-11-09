@@ -2,5 +2,6 @@
 <br>
 This is my first Git repository.
 <br>
-Tech-Mark
+Tech-(musi)
 
+git status
